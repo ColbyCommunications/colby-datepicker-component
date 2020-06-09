@@ -1,5 +1,5 @@
 {
-    "name": "@colbycommunications/colby-datepicker",
+    "name": "@colbycommunications/colby-datepicker-component",
     "version": "1.0.0",
     "description": "A react datepicker component",
     "main": "dist/index.js",
